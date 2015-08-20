@@ -12,7 +12,7 @@ $(call inherit-product, vendor/eos/config/themes_common.mk)
 PRODUCT_DEVICE := osprey
 PRODUCT_NAME := eos_osprey
 PRODUCT_BRAND := Motorola
-PRODUCT_MODEL := MotoG3
+PRODUCT_MODEL := Moto G (3rd gen.)
 PRODUCT_MANUFACTURER := Motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
